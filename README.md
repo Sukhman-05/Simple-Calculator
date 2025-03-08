@@ -36,6 +36,9 @@ Displays an error message if the user tries to divide by zero.
 
 Prevents invalid inputs or expressions from crashing the application.
 
+# Screenshot
+<img width="646" alt="Screenshot 2025-03-08 at 10 43 57 AM copy" src="https://github.com/user-attachments/assets/157a964b-45e6-4ca0-9688-34dec9ea6824" />
+
 # Future Improvements
 
 Implement keyboard support for user input
